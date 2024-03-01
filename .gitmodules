@@ -7,3 +7,6 @@
 [submodule "web"]
 	path = web
 	url = git@github.com:Training-Club/web.git
+[submodule "server"]
+	path = server
+	url = git@github.com:Training-Club/server.git
