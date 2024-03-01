@@ -4,3 +4,6 @@
 [submodule "app"]
 	path = app
 	url = git@github.com:Training-Club/app.git
+[submodule "web"]
+	path = web
+	url = git@github.com:Training-Club/web.git
