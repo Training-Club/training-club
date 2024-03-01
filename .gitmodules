@@ -1,3 +1,6 @@
 [submodule "test"]
 	path = test
 	url = git@github.com:Training-Club/test.git
+[submodule "app"]
+	path = app
+	url = git@github.com:Training-Club/app.git
